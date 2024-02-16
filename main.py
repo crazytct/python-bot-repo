@@ -1,6 +1,5 @@
 import os
 import asyncio, json
-import jishaku, cogs
 from discord.ext import commands, tasks
 import discord
 from discord import app_commands
