@@ -10,7 +10,7 @@ import aiohttp
 import base64
 import time
 from io import BytesIO
-from utils.Tools import 
+from utils.Tools import * 
 from utils.config import 
 
 os.environ["JISHAKU_NO_DM_TRACEBACK"] = "False"
