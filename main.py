@@ -1,5 +1,4 @@
 import os
-from Astroz import Astroz
 import asyncio, json
 import jishaku, cogs
 from discord.ext import commands, tasks
