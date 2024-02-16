@@ -1,0 +1,16 @@
+{
+    "OWNER_IDS": [
+        1144284394534735972
+    ],
+    "name": "HWK",
+    "server": "https://discord.gg/ZnwnN9CBXt",
+    "ch": "1206289123598663690",
+    "OpenAi": "Put-Your-OpenAI-API-Key-Here IF YOU HAVE",
+    "EXTENSIONS": [
+        "cogs.events"
+    ],
+    "np": [
+        1144284394534735972,
+        1181196951350431774
+    ]
+}
