@@ -17,7 +17,7 @@ os.environ["JISHAKU_HIDE"] = "True"
 os.environ["JISHAKU_NO_UNDERSCORE"] = "True"
 os.environ["JISHAKU_FORCE_PAGINATOR"] = "True"
 
-client = Astroz()
+
 tree = client.tree
 TOKEN = os.getenv('TOKEN')
 openAiKey = OpenAi
